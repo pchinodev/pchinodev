@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Python, Java, Go, SQL
+* **Languages:** Python, Java, Go, PHP, SQL
 * **AI/ML:** PyTorch, Transformers (Hugging Face), Scikit-learn
 * **Data:** Pandas, NumPy, Text Processing Pipelines
 * **Backend:** Spring Boot, REST APIs, Criteria API
